@@ -42,4 +42,7 @@ TRACE
 PATCH
 
 
-Ref: https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+Ref: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+https://www.w3schools.com/tags/ref_httpmethods.asp
+https://www.geeksforgeeks.org/diffrence-between-put-and-post-http-requests/
