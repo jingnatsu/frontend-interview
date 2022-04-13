@@ -11,6 +11,7 @@
 | DELETE  | Delete | 405 (Method Not Allowed), unless you want to delete the whole collection—not often desirable. |200 (OK). 404 (Not Found), if ID not found or invalid.
 
 Refs: https://restfulapi.net/http-methods
+#
 2. How many HTTP request methods?
 -  HTTP defines a set of request methods to indicate the desired action to be performed for a given resource. Although they can also be nouns, these request methods are sometimes referred to as HTTP verbs. Each of them implements a different semantic, but some common features are shared by a group of them: e.g. a request method can be safe, idempotent, or cacheable.
 
