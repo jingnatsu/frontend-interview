@@ -31,5 +31,5 @@ Ref:
 - https://www.geeksforgeeks.org/diffrence-between-put-and-post-http-requests/
 - https://www.geeksforgeeks.org/difference-between-put-and-patch-request/
 
-3. How many way to center a div or text?
+**3. How many way to center a div or text?**
 - https://blog.hubspot.com/website/center-div-css#:~:text=There%20are%20three%20ways%20to%20center%20a%20div%20within%20a,horizontally%2C%20vertically%2C%20or%20both.
