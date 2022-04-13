@@ -1,5 +1,5 @@
 # frontend-interview
-1. How many HTTP Methods for RESTful Services?
+**1. How many HTTP Methods for RESTful Services?**
 - REST APIs enable you to develop all kinds of web applications having all possible CRUD (create, retrieve, update, delete) operations. The primary or most-commonly-used HTTP verbs (or methods, as they are properly called) are POST, GET, PUT, PATCH, and DELETE. These correspond to create, read, update, and delete (or CRUD) operation.
 
 | HTTP Verb        | CRUD           | Entire Collection (e.g. /customers)  | Specific Item (e.g. /customers/{id})
@@ -12,7 +12,7 @@
 
 Refs: https://restfulapi.net/http-methods
 #
-2. How many HTTP request methods?
+**2. How many HTTP request methods?**
 -  HTTP defines a set of request methods to indicate the desired action to be performed for a given resource. Although they can also be nouns, these request methods are sometimes referred to as HTTP verbs. Each of them implements a different semantic, but some common features are shared by a group of them: e.g. a request method can be safe, idempotent, or cacheable.
 
 - GET
