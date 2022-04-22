@@ -36,7 +36,8 @@ Ref:
 - https://www.youtube.com/watch?v=87YMCtsBoCM&t=499s&ab_channel=KevinPowell
 
 **4. What is inherit attributes in CSS, ex: display: inherit?**
-- This makes the element inherit the display property of its parent. So, if you have a <span> tag inside a div and you give the span tag a display of inherit, it turns it from inline to block element.
+- This makes the element inherit the display property of its parent. So, if you have a <span> tag inside a div and you give the span tag a display of inherit, it turns it from inline to block element. 
+  
 **5. What is a pure function?**
   - A pure function is a function which: 
   1. Given the same input, always returns the same output. 
