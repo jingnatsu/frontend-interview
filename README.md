@@ -34,9 +34,10 @@ Ref:
 **3. How many way to center a div or text?**
 - https://blog.hubspot.com/website/center-div-css#:~:text=There%20are%20three%20ways%20to%20center%20a%20div%20within%20a,horizontally%2C%20vertically%2C%20or%20both.
 - https://www.youtube.com/watch?v=87YMCtsBoCM&t=499s&ab_channel=KevinPowell
-**4. What is inherit attributes in CSS, ex: display: inherit?**
+
+4. What is inherit attributes in CSS, ex: display: inherit?
 - This makes the element inherit the display property of its parent. So, if you have a <span> tag inside a div and you give the span tag a display of inherit, it turns it from inline to block element.
-**5. What is a pure function?**
+5. What is a pure function?
   - A pure function is a function which: 
   1/ Given the same input, always returns the same output. 
   2/ Produces no side effects.
