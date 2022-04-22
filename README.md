@@ -34,3 +34,12 @@ Ref:
 **3. How many way to center a div or text?**
 - https://blog.hubspot.com/website/center-div-css#:~:text=There%20are%20three%20ways%20to%20center%20a%20div%20within%20a,horizontally%2C%20vertically%2C%20or%20both.
 - https://www.youtube.com/watch?v=87YMCtsBoCM&t=499s&ab_channel=KevinPowell
+**4. What is inherit attributes in CSS, ex: display: inherit?
+- This makes the element inherit the display property of its parent. So, if you have a <span> tag inside a div and you give the span tag a display of inherit, it turns it from inline to block element.
+**5. What is a pure function? **
+  - A pure function is a function which: 
+  1/ Given the same input, always returns the same output. 
+  2/ Produces no side effects.
+  - Pure functions are completely independent of outside state, and as such, they are immune to entire classes of bugs that have to do with shared mutable state. Their independent nature also makes them great candidates for parallel processing across many CPUs, and across entire distributed computing clusters, which makes them essential for many types of scientific and resource-intensive computing tasks.
+Pure functions are also extremely independent — easy to move around, refactor, and reorganize in your code, making your programs more flexible and adaptable to future changes.
+  - Ref: https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976
