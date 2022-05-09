@@ -46,4 +46,6 @@ Ref:
 Pure functions are also extremely independent — easy to move around, refactor, and reorganize in your code, making your programs more flexible and adaptable to future changes.
   - Ref: https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976  
 **6. What is Function composition?**
+  6. What is Function composition?
+  7.  What is Function composition?
 
