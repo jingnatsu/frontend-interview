@@ -48,4 +48,4 @@ Pure functions are also extremely independent — easy to move around, refactor,
 **6. What is Function composition?**
   6. What is Function composition?
   7.  What is Function composition?
-
+https://www.geeksforgeeks.org/why-javascript-is-a-single-thread-language-that-can-be-non-blocking/#:~:text=JavaScript%20is%20a%20single%2Dthreaded%20language%20because%20while%20running%20code,it%20is%20synchronous%20in%20nature.
