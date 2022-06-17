@@ -54,3 +54,4 @@ Pure functions are also extremely independent — easy to move around, refactor,
   - https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1
   - https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
   - https://viblo.asia/p/mot-so-kien-thuc-ve-lo-hong-bao-mat-csrf-yMnKMLng57P
+  - https://topdev.vn/blog/solid-la-gi/
