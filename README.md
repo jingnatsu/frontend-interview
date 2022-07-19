@@ -57,3 +57,4 @@ Pure functions are also extremely independent — easy to move around, refactor,
   - https://topdev.vn/blog/solid-la-gi/
   - https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif
   - https://viblo.asia/p/hieu-ve-co-che-xu-ly-su-kien-event-loop-trong-javascript-07LKXjX2lV4
+  - https://www.geeksforgeeks.org/pass-by-value-and-pass-by-reference-in-javascript/
